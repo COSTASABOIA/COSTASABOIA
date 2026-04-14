@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @COSTASABOIA
+- 👋 Hi, I’m Felipe Costa Saboia
 - 👀 I’m interested in music and coding
-- 🌱 I’m currently learning python, javascript and html
-- 💞️ I’m looking to collaborate on Estagio de Desenvolvimento Front End
+- 🌱 I’m currently learning Frameworks such as Nextjs, Angular, ReactJS and Similar
+- 💞️ I’m looking to collaborate on Full Stack Development 
 - 📫 How to reach me https://www.linkedin.com/in/felipe-costa-saboia-ab795a172/
 
 <!---
